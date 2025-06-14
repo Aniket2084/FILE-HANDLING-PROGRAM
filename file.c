@@ -21,9 +21,7 @@ int main() {
     //reading from FILE
     fptr=fopen("test.txt","r");
     char read[200];
-    for(int i=0;i<=200;i++){
-        fscanf(fptr,"%c",&read[i]);
-    }
+    fscanf(fptr,"%s",&read);
     puts(read);
     fclose(fptr);
     
