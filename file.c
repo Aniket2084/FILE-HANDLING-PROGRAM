@@ -20,8 +20,8 @@ int main() {
     
     //reading from FILE
     fptr=fopen("test.txt","r");
-    char read[100];
-    for(int i=0;i<=100;i++){
+    char read[200];
+    for(int i=0;i<=200;i++){
         fscanf(fptr,"%c",&read[i]);
     }
     puts(read);
