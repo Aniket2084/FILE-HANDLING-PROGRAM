@@ -13,7 +13,7 @@ int main() {
     //appending in FILE
     fptr=fopen("test.txt","a");
     char append[100];
-    printf("Enter the string to be written=");
+    printf("Enter the string to be appended=");
     scanf("%s",&append);
     fprintf(fptr,"%s",append);
     fclose(fptr);
