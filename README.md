@@ -75,3 +75,4 @@ Read the complete file content and display it.
 It uses simple C functions and is very useful when you want to store user input and work with file data.
 
 
+*OUTPUT: *
