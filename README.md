@@ -82,4 +82,6 @@ It uses simple C functions and is very useful when you want to store user input 
 
 *test.txt file*
 
+![Image](https://github.com/user-attachments/assets/ed4608e0-ee81-4c49-9da0-4fdf242792d2)
+
 
