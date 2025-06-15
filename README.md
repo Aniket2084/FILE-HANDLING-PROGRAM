@@ -79,3 +79,7 @@ It uses simple C functions and is very useful when you want to store user input 
 
 ![Image](https://github.com/user-attachments/assets/5ff4a744-e200-45db-97bc-bbb8fb5648c6)
 
+
+*test.txt file*
+
+
