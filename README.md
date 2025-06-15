@@ -58,7 +58,9 @@ After the loop, a null character \0 is added to end the string.
 Finally, it uses puts() to display the full content of the file on the screen.
 
 Output on screen:
+
 Hello, this is the first line.
+
 This is the second line.
 
 *Summary*
